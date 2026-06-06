@@ -1,0 +1,33 @@
+{
+  "deployable_kind": "spring-boot",
+  "ir_hash": "",
+  "scenarios": [
+    {
+      "expect": "Started ... PawnshopApplication",
+      "id": "smoke_boot",
+      "kind": "process_starts"
+    },
+    {
+      "expect_status_any_of": [
+        200,
+        302,
+        404
+      ],
+      "id": "smoke_root",
+      "kind": "http_get",
+      "url": "http://127.0.0.1:8090/"
+    },
+    {
+      "expect_status_any_of": [
+        200,
+        302,
+        401,
+        404
+      ],
+      "id": "smoke_health",
+      "kind": "http_get",
+      "url": "http://127.0.0.1:8090/actuator/health"
+    }
+  ],
+  "strategy": "smoke"
+}

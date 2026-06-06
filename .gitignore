@@ -1,0 +1,23 @@
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.iml
+
+# ---- Java / Maven build output ----
+target/
+build/
+*.class
+*.jar
+*.war
+*.jar.original
+
+# ---- Test / coverage reports ----
+**/surefire-reports/
+**/jacoco.exec
+**/site/
+
+# ---- Logs ----
+*.log

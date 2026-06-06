@@ -1,0 +1,846 @@
+{
+  "by_family": {
+    "equivalence": 36,
+    "property": 50
+  },
+  "diff": {},
+  "diff_against": null,
+  "fail_count": 0,
+  "ir_hash": "unknown",
+  "outcomes": [
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "ok_2xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        200
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "equivalence",
+      "reason": "client_4xx",
+      "scenario_id": "endpoint_sweep",
+      "status": "pass",
+      "status_codes": [
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_08e5aff3",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_1128d5f6",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_59e61a76",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_72525e8d",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_8cab8564",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_a3d2308c",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_b16d7ce2",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_b52b8f20",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_dcfae1c2",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "no_5xx",
+      "scenario_id": "prop_fuzz_e7e9d411",
+      "status": "pass",
+      "status_codes": [
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_005c6c52",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_0bcf4fe2",
+      "status": "pass",
+      "status_codes": [
+        200,
+        200
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_0cfe7d11",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_0dc78265",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_0e3885b9",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_0fc916f2",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_116d3138",
+      "status": "pass",
+      "status_codes": [
+        403,
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_1ddb93b1",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_1ec66a2f",
+      "status": "pass",
+      "status_codes": [
+        403,
+        403,
+        403
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_22c1145d",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_27610c7c",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_29ffdb29",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_2ae73a10",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_2cae659c",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_2ee5e460",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_305f1b15",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_307da5f2",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_31ea9c5a",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_322cdd90",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_338aedfd",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_35195f0a",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_37410569",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_3ce205a1",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_3d0a8e47",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_4268df6b",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_426c85fd",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_434a89db",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_43ab9364",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_4f5b0b6a",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_515b87b4",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_56f14373",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_5a18d275",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_5c307079",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_61c98cd8",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_6215b965",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_66e6787f",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_681b6370",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_6976e00f",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_6cb71e8a",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400
+      ]
+    },
+    {
+      "family": "property",
+      "reason": "stable",
+      "scenario_id": "prop_inv_6db73bdb",
+      "status": "pass",
+      "status_codes": [
+        400,
+        400,
+        400
+      ]
+    }
+  ],
+  "outcomes_count": 86,
+  "pass_count": 86,
+  "snapshot_id": "f413f6643175"
+}
