@@ -74,6 +74,23 @@ Representative programs:
 See [`carddemo-baseline/aws-carddemo/README.md`](carddemo-baseline/aws-carddemo/README.md)
 for the full application inventory and screen flows.
 
+### The original mainframe screens (CICS / BMS)
+
+The legacy application is driven through 3270-style green-screen terminals. These are the
+screens the modernization reproduces as REST endpoints + UI.
+
+**Sign-on screen** — `COSGN00C` (transaction `CC00`), the RACF-backed login:
+
+![CardDemo sign-on screen](carddemo-baseline/aws-carddemo/diagrams/Signon-Screen.png)
+
+**Main menu** — `COMEN01C` (transaction `CM00`), the user function hub:
+
+![CardDemo main menu](carddemo-baseline/aws-carddemo/diagrams/Main-Menu.png)
+
+Each menu option maps to a COBOL program (and, in the modernized app, to a service +
+REST controller): Account View → `COACTVWC` / `AccountViewService`, Bill Payment →
+`COBIL00C` / `BillPayService`, and so on.
+
 ---
 
 ## The modernization — `carddemo-agentyx`
