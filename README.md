@@ -151,7 +151,18 @@ The H2 console is enabled under the `dev` profile.
 
 ## License
 
-The baseline application retains its original AWS license — see
-[`carddemo-baseline/aws-carddemo/LICENSE`](carddemo-baseline/aws-carddemo/LICENSE).
-The modernized `carddemo-agentyx` sources are generated artifacts provided for
-demonstration and evaluation purposes.
+This repository is licensed under the **Apache License, Version 2.0** — see
+[`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+
+| Path                 | Work                                         | Copyright                                 | License    |
+| -------------------- | -------------------------------------------- | ----------------------------------------- | ---------- |
+| `carddemo-baseline/` | Original AWS CardDemo (COBOL/CICS/VSAM/JCL)  | Amazon.com, Inc. or its affiliates        | Apache-2.0 |
+| `carddemo-agentyx/`  | Agentyx-generated modernization (derivative) | lionsagentix                              | Apache-2.0 |
+
+`carddemo-agentyx/` is a **derivative work** of the AWS CardDemo application, transformed
+from COBOL to a Spring Boot / Java stack. Per Apache 2.0, the original copyright and
+attribution notices are retained in [`NOTICE`](NOTICE) and in
+[`carddemo-baseline/aws-carddemo/NOTICE`](carddemo-baseline/aws-carddemo/NOTICE).
+
+"AWS" and "Amazon" are trademarks of Amazon.com, Inc.; this license grants no rights to
+those marks beyond describing the origin of the work.
